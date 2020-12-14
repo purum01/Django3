@@ -16,3 +16,7 @@
 ## Chapter04
 * [장고 템플릿 문서](https://docs.djangoproject.com/en/3.1/ref/templates/builtins/ )
 * [Date/Time format 문자](https://docs.djangoproject.com/en/3.1/ref/templates/builtins/#date )
+
+## Chapter05
+* [DB Browser for SQLite](https://sqlitebrowser.org/)
+* [Field types](https://docs.djangoproject.com/ko/3.1/ref/models/fields/#model-field-types)
