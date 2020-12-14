@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Post 상세보기
+{% endblock %}
+
+{% block content %}
+
+
+    <h1>{{post.title}}</h1>
+
+    제목 : {{post.title}} <br/>
+    작성자 : {{post.author}} <br/>
+    내용 : {{post.body}} <br/>
+
+    <hr>
+    {% for comment in comment_all %}
+        {{comment.message}}
+    {% empty %}
+        댓글이 존재하지 않습니다.  
+    {% endfor %}
+
+{% endblock %}
