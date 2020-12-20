@@ -20,3 +20,5 @@
 ## Chapter05
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [Field types](https://docs.djangoproject.com/ko/3.1/ref/models/fields/#model-field-types)
+* [Field options](https://docs.djangoproject.com/ko/3.1/ref/models/fields/#common-model-field-options)
+* [SQLiteStudio](https://sqlitestudio.pl/)
