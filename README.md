@@ -21,5 +21,9 @@
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [Field types](https://docs.djangoproject.com/ko/3.1/ref/models/fields/#model-field-types)
 * [Field options](https://docs.djangoproject.com/ko/3.1/ref/models/fields/#common-model-field-options)
-* [SQLiteStudio](https://sqlitestudio.pl/)
 * [Relationship fields](https://docs.djangoproject.com/ko/3.1/ref/models/fields/#module-django.db.models.fields.related)
+
+
+## Chapter06
+* [Manger](https://docs.djangoproject.com/en/3.1/topics/db/managers/)
+* [QuerySet](https://docs.djangoproject.com/en/3.1/ref/models/querysets/)
