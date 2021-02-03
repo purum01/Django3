@@ -25,5 +25,6 @@
 
 
 ## Chapter06
-* [Manger](https://docs.djangoproject.com/en/3.1/topics/db/managers/)
+* [Manager](https://docs.djangoproject.com/en/3.1/topics/db/managers/)
 * [QuerySet](https://docs.djangoproject.com/en/3.1/ref/models/querysets/)
+* [Field lookups](https://docs.djangoproject.com/en/3.1/ref/models/querysets/#field-lookups)
