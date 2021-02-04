@@ -28,3 +28,8 @@
 * [Manager](https://docs.djangoproject.com/en/3.1/topics/db/managers/)
 * [QuerySet](https://docs.djangoproject.com/en/3.1/ref/models/querysets/)
 * [Field lookups](https://docs.djangoproject.com/en/3.1/ref/models/querysets/#field-lookups)
+
+## Chapter07
+* [Admin App 문서](https://docs.djangoproject.com/en/3.1/ref/contrib/admin/)
+* [Admin App 소스](https://github.com/django/django/tree/master/django/contrib/admin)
+* [ModelAdmin 소스](https://github.com/django/django/blob/master/django/contrib/admin/options.py)
