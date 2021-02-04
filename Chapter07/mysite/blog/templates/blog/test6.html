@@ -1,0 +1,28 @@
+1. {{var1}} <br/>
+2. {{var1|default:"nothing"}} <br/>
+3. {{var1|default_if_none:"zero"}} <br/>
+4. {{people}} <br/>
+5. {{people|join:","}} <br/>
+6. {{people|length}} <br>
+7. {{people|random}} <br/>
+8. {{people|slice:":2"}}  <br/>
+9. {{var2|linebreaks}} <br/>
+10. {{var2|linebreaksbr}}  <br/>
+11. {{var3}} <br/>
+12. {{var3|striptags}}  <br/>
+13. {{var3|safe}} <br>
+{% autoescape off %}
+    14. {{ var3 }} <br>
+{% endautoescape %}
+
+15. {{var4|truncatechars:100}} <br/>
+16. {{var4| truncatewords:50}} <br/>
+17. {{var5|urlize}} <br/>
+
+18. {{date1}} <br/>
+19. {{date1|date:"Y-m-d"}} <br/>
+20. {{date1|time:"P"}} <br/>
+21. {{date2|timesince}} <br/>
+22. {{date2|timesince:date3}} <br/>
+23. {{date4|timeuntil}} <br/>
+24. {{date4|timeuntil:date5}} <br/>
