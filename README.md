@@ -33,3 +33,11 @@
 * [admin site 참조 문서](https://docs.djangoproject.com/en/3.1/ref/contrib/admin/)
 * [admin 앱 소스](https://github.com/django/django/tree/master/django/contrib/admin)
 * [ModelAdmin 소스](https://github.com/django/django/blob/master/django/contrib/admin/options.py)
+
+
+## Chapter08
+
+* [Cross Site Request Forgery protection](https://docs.djangoproject.com/en/3.1/ref/csrf/)
+* [HttpRequest](https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects)
+* [QueryDict](https://docs.djangoproject.com/en/3.1/ref/request-response/#querydict-objects)
+* [HttpResponse](https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects)
