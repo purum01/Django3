@@ -39,5 +39,7 @@
 
 * [Cross Site Request Forgery protection](https://docs.djangoproject.com/en/3.1/ref/csrf/)
 * [HttpRequest](https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects)
-* [QueryDict](https://docs.djangoproject.com/en/3.1/ref/request-response/#querydict-objects)
 * [HttpResponse](https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects)
+* [QueryDict](https://docs.djangoproject.com/en/3.1/ref/request-response/#querydict-objects)
+* [Django Form](https://docs.djangoproject.com/en/3.1/ref/forms/fields/)
+* [ModelForm](https://docs.djangoproject.com/en/3.1/topics/forms/modelforms/)
