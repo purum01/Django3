@@ -43,3 +43,6 @@
 * [QueryDict](https://docs.djangoproject.com/en/3.1/ref/request-response/#querydict-objects)
 * [Django Form](https://docs.djangoproject.com/en/3.1/ref/forms/fields/)
 * [ModelForm](https://docs.djangoproject.com/en/3.1/topics/forms/modelforms/)
+* [Form and field validation](https://docs.djangoproject.com/en/3.1/ref/forms/validation/)
+* [Validating the model instance](https://docs.djangoproject.com/en/3.1/ref/models/instances/#validating-objects)
+* [Built-in validators](https://docs.djangoproject.com/en/3.1/ref/validators/#built-in-validators)
