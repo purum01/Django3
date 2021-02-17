@@ -49,7 +49,7 @@
 ## Chapter09
 * [Class-based view](https://docs.djangoproject.com/en/3.1/topics/class-based-views/intro/)
 * [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
-* [View] (https://github.com/django/django/blob/master/django/views/generic/base.py)
+* [View](https://github.com/django/django/blob/master/django/views/generic/base.py)
 * [ListView](https://github.com/django/django/blob/3.1/django/views/generic/list.py) 
 * [DetailView](https://github.com/django/django/blob/stable/3.1.x/django/views/generic/detail.py)
 * [Edit View](https://github.com/django/django/blob/stable/3.1.x/django/views/generic/edit.py)
