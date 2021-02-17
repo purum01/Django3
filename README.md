@@ -36,7 +36,6 @@
 
 
 ## Chapter08
-
 * [Cross Site Request Forgery protection](https://docs.djangoproject.com/en/3.1/ref/csrf/)
 * [HttpRequest](https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects)
 * [HttpResponse](https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects)
@@ -46,3 +45,11 @@
 * [Form and field validation](https://docs.djangoproject.com/en/3.1/ref/forms/validation/)
 * [Validating the model instance](https://docs.djangoproject.com/en/3.1/ref/models/instances/#validating-objects)
 * [Built-in validators](https://docs.djangoproject.com/en/3.1/ref/validators/#built-in-validators)
+
+## Chapter09
+* [Class-based view](https://docs.djangoproject.com/en/3.1/topics/class-based-views/intro/)
+* [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
+* [View] (https://github.com/django/django/blob/master/django/views/generic/base.py)
+* [ListView](https://github.com/django/django/blob/3.1/django/views/generic/list.py) 
+* [DetailView](https://github.com/django/django/blob/stable/3.1.x/django/views/generic/detail.py)
+* [Edit View](https://github.com/django/django/blob/stable/3.1.x/django/views/generic/edit.py)
