@@ -1,0 +1,28 @@
+{% with score=80 %}
+    
+    {% if score %}
+      점수: {{score}}점!
+    {% endif %}
+
+    {% if score >= 60 %}
+        합격입니다!
+    {% else %}
+        불합격입니다! 
+    {% endif %}
+
+    {% if score >= 90 %}
+        A 등급!
+    {% elif score >= 80 %}
+        B 등급!
+    {% else %}
+        C 등급!
+    {% endif %}
+
+{% endwith %}
+
+{% include "blog/name.html" with person="Amy" greeting="Hello" %}
+
+{% lorem %}
+
+<p>{% now "Y/m/d" %}</p>
+

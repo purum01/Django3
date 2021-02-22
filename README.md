@@ -51,5 +51,10 @@
 * [Built-in class-based generic views](https://docs.djangoproject.com/en/3.1/topics/class-based-views/generic-display/)
 * [View](https://github.com/django/django/blob/master/django/views/generic/base.py)
 * [ListView](https://github.com/django/django/blob/3.1/django/views/generic/list.py) 
-* [DetailView](https://github.com/django/django/blob/stable/3.1.x/django/views/generic/detail.py)
-* [Edit View](https://github.com/django/django/blob/stable/3.1.x/django/views/generic/edit.py)
+* [DetailView](https://github.com/django/django/blob/3.1/django/views/generic/detail.py)
+* [Edit View](https://github.com/django/django/blob/3.1/django/views/generic/edit.py)
+
+## Chapter10
+* [Managing static files](https://docs.djangoproject.com/en/3.1/howto/static-files/)
+* [Deploying static files](https://docs.djangoproject.com/en/3.1/howto/static-files/deployment/)
+* [개발서버에서 media 파일 서빙](https://github.com/django/django/blob/master/django/conf/urls/static.py)
