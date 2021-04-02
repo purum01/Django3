@@ -64,8 +64,8 @@
 * [auth앱 환경 변수](https://github.com/django/django/blob/master/django/conf/global_settings.py#L499)
 
 * [signals](https://docs.djangoproject.com/en/3.1/ref/signals/)
-* [applications] (https://docs.djangoproject.com/en/3.1/ref/applications/)
-* [email] (https://docs.djangoproject.com/en/3.1/topics/email/)
+* [applications](https://docs.djangoproject.com/en/3.1/ref/applications/)
+* [email](https://docs.djangoproject.com/en/3.1/topics/email/)
 
 * [All authentication views](https://docs.djangoproject.com/en/3.1/topics/auth/default/#all-authentication-views)
 * [auth 소스 코드](https://github.com/django/django/tree/main/django/contrib/auth)
