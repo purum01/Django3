@@ -71,4 +71,11 @@
 * [auth 소스 코드](https://github.com/django/django/tree/main/django/contrib/auth)
 
 ## Chapter12
-* [session 소스 코드](https://github.com/django/django/tree/main/django/contrib/sessions)
+### 세션 소스 코드
+* [session앱](https://github.com/django/django/tree/main/django/contrib/sessions)
+* [SessionMiddleware](https://github.com/django/django/blob/3.1/django/contrib/sessions/middleware.py)
+* [SessionStore](https://github.com/django/django/blob/main/django/contrib/sessions/backends/db.py)
+* [MiddlewareMixin](https://github.com/django/django/blob/3.1/django/utils/deprecation.py#LC82)
+###
+* [How to use sessions](https://docs.djangoproject.com/en/3.2/topics/http/sessions/)
+* [세션 환경 변수](https://docs.djangoproject.com/en/3.1/ref/settings/#sessions)

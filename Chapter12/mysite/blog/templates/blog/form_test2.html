@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block content %}
+    <form action="" method="POST" enctype="multipart/form-data">
+        {% csrf_token %}
+        상품코드 : <input type="text" name="goods_cood"><br><br>
+        상품명 : <input type="text" name="goods_name"><br><br>
+        상품사진 : <input type="file" name="goods_photo"><br><br> 
+        Test : <input type="email" >
+
+
+        <input type="submit" value="전송">
+    </form>
+{% endblock %}

@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% load humanize %}
+{% block title %} {{ product.name }} {% endblock %}
+{% block content %}
+    <table>
+        <tr>
+            <td rowspan="3"><img src="{{ product.image.url }}" width="200" height="200"></td>
+            <td><h3>{{ product.name }}</h3>
+                <p>단가 : {{ product.price|intcomma }}원</p>
+                <p>제품 설명 : </p> {% lorem 1 p%}
+            </td>
+        </tr>
+        <tr>
+            <td align="left">      
+                <form action="{% url "cart:cart_add" product.id %}" method="post">
+                {{ cart_product_form.as_p }}
+                {% csrf_token %}
+                <input type="submit" value="장바구니에 넣기">
+                </form>
+            </td>
+        </tr>
+    </table>
+{% endblock %}
+
+
